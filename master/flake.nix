@@ -11,7 +11,6 @@
   inputs.src-gatabase-master.ref   = "refs/heads/master";
   inputs.src-gatabase-master.owner = "juancarlospaco";
   inputs.src-gatabase-master.repo  = "nim-gatabase";
-  inputs.src-gatabase-master.dir   = "";
   inputs.src-gatabase-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
