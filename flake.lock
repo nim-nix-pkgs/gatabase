@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1657152949,
-        "narHash": "sha256-K70mS/hS2j2KWepHIecaLBDDpUo/GbzmUlk85KFRdTw=",
+        "lastModified": 1658017934,
+        "narHash": "sha256-dxNHaAASl1EL+dHsPXQzFSpcTC6BlTE5WSwgpYficOg=",
         "owner": "nim-nix-pkgs",
         "repo": "gatabase",
-        "rev": "230eb74d32b6b4474ceb6c5bfb615b010dcebb23",
+        "rev": "8f44e01d30b5c37817c407123175105766463eb8",
         "type": "github"
       },
       "original": {
