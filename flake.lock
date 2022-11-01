@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1662254483,
-        "narHash": "sha256-qvi/OND6D7kFPxIsUp3F+gTyYfpvntaMq+HEmOCqG/Y=",
+        "lastModified": 1667322292,
+        "narHash": "sha256-H1TpMDA0YSv0kVXJUzDpTGtfUvuaTu6t7CcxF7GTidY=",
         "owner": "nim-nix-pkgs",
         "repo": "gatabase",
-        "rev": "6f42c353bd80804b091819a477c926d55c44ad99",
+        "rev": "7955bf2b6e3fd204a2c4901f9eba252774202606",
         "type": "github"
       },
       "original": {
@@ -50,11 +50,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1667110639,
-        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
+        "lastModified": 1667199707,
+        "narHash": "sha256-I2Js3Y7gUyVSEXPULHlBoRek4Lh85vnevdS6mdvDNLI=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
+        "rev": "ced197be72099edcfa68ebed8b87af7b04851f45",
         "type": "github"
       },
       "original": {
@@ -72,11 +72,11 @@
     "src-gatabase-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1643231884,
-        "narHash": "sha256-DWXhAGUVAqZ9Odxvro0+EvGmqtzVndobUOTVsn0UBs4=",
+        "lastModified": 1665364309,
+        "narHash": "sha256-4MeJXKApEK0XytLPaQs5NoUGuygIfqGkKmIf5SAKVTE=",
         "owner": "juancarlospaco",
         "repo": "nim-gatabase",
-        "rev": "cd7c34ab7a4b52a8959fd21369a57899a56b35ee",
+        "rev": "3aaba860e3090504c77faa419e14c239dfd46045",
         "type": "github"
       },
       "original": {
